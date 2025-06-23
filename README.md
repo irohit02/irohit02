@@ -20,8 +20,8 @@ I'm a Computer Science undergraduate at **Bharati Vidyapeeth College of Engineer
 - 🌦️ [**Weather Forecast App**](https://github.com/irohit02/Weather-app)  
   Simple website that fetches real-time weather using external APIs.
 
-- ⚙️ [**CODSOFT Challenge Projects**](https://github.com/irohit02/CODSOFT)  
-  C++ projects and DSA problems completed during a coding internship challenge.
+- 💻 [**codsoft-cpp-projects**](https://github.com/irohit02/codsoft-cpp-projects)  
+  Mini-projects and C++ programs demonstrating OOP, logic building, and algorithmic problem-solving.
 
 ---
 
