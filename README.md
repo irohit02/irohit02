@@ -7,8 +7,7 @@ I'm a Computer Science undergraduate at **Bharati Vidyapeeth College of Engineer
 - 🧠 **Interned at Bharat Electronics Limited (BEL)** under the D&E–DCCS division
 - 🔭 Currently working on networking, web apps, and AI/ML projects  
 - 🧰 Tools I use: Python, C++, HTML, CSS, JavaScript, MySQL, Git  
-- 🛠️ Domains: Web Development, Networking, Security, AI, Socket Programming  
-- 🎯 Goal: Become a full-stack and systems-level software engineer
+- 🛠️ Domains: Web Development, Networking, Security, AI
 
 ---
 
