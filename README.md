@@ -15,7 +15,7 @@ I love building meaningful tools, solving real-world problems with code, and exp
   Web applications, networking projects, and AI/ML-based systems.
 
 - **Skills**  
-  Python · C++ · HTML · CSS · JavaScript · MySQL · Git · Flask · Bootstrap
+  Python · C++ · HTML · CSS · JavaScript · MySQL · Git · Flask · Bootstrap · Angular
 
 ---
 
