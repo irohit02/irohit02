@@ -19,16 +19,6 @@ I love building meaningful tools, solving real-world problems with code, and exp
 
 ---
 
-## 📌 Featured Project
-
-### Encrypted File Transfer System  
-A secure file transmission system developed during my internship at **Bharat Electronics Limited (BEL)**.  
-The project ensures reliable and confidential XML data transfer using **Python**, **TCP sockets**, and **Excel/XML parsing** — designed for use in sensitive defense environments.
-
-[GitHub Repository](https://github.com/irohit02/Encrypted-File-Transfer-System)
-
----
-
 ## 📈 GitHub Overview
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irohit02&layout=compact&theme=tokyonight)
