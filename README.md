@@ -21,8 +21,11 @@ I love building meaningful tools, solving real-world problems with code, and exp
 
 ## 📈 GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irohit02&layout=compact&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=irohit02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irohit02&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</div>
 
 ---
 
