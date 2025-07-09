@@ -11,7 +11,7 @@ I love building meaningful tools, solving real-world problems with code, and exp
 - **Interned at Bharat Electronics Limited (BEL)**  
   Developed a secure file transmission tool using Python, Excel, and TCP sockets.
 
-- Currently working on:  
+- **Currently working on:**  
   Web applications, networking projects, and AI/ML-based systems.
 
 - **Skills**  
