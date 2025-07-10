@@ -6,7 +6,7 @@ I love building meaningful tools, solving real-world problems with code, and exp
 
 ---
 
-## <img src="https://img.icons8.com/ios/50/666666/user--v1.png" width="20" style="margin-bottom:-5px;" /> About Me
+## <img src="https://img.icons8.com/ios/50/666666/user--v1.png" width="20" style="vertical-align: middle;" /> About Me
 
 - **Interned at Bharat Electronics Limited (BEL)**  
   Developed a secure file transmission tool using Python, Excel, and TCP sockets.
@@ -17,13 +17,14 @@ I love building meaningful tools, solving real-world problems with code, and exp
 ---
 
 
-## <img src="https://img.icons8.com/ios-filled/50/666666/source-code.png" width="20" style="margin-bottom:-5px;" /> Tech Stack
+## <img src="https://img.icons8.com/ios/50/666666/source-code.png" width="20" style="vertical-align: middle;" /> Tech Stack
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /> </p>
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/666666/combo-chart.png" width="20" style="margin-bottom:-5px;" /> GitHub Stats
+
+## <img src="https://img.icons8.com/ios/50/666666/combo-chart.png" width="20" style="vertical-align: middle;" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=irohit02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="435" />
